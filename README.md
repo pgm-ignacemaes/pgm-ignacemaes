@@ -5,6 +5,5 @@ Ik ben een student aan de Arteveldehogeschool met een grote interesse in webdeve
 Ik ben leergierig en steeds op zoek naar manieren om mijn technische vaardigheden verder te ontwikkelen. Mijn doel is om later binnen de IT-sector te werken in een professionele omgeving, waar ik mijn passie voor webontwikkeling kan inzetten en blijven groeien.
 
 ## Socials
-
-www.linkedin.com/in/ignace-maes-491b95405
-https://pgm-ignacemaes.github.io/portfolio-website/
+- www.linkedin.com/in/ignace-maes-491b95405
+- https://pgm-ignacemaes.github.io/portfolio-website/
