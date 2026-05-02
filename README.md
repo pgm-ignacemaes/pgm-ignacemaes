@@ -6,5 +6,4 @@ Ik ben leergierig en steeds op zoek naar manieren om mijn technische vaardighede
 
 ## Socials
 - www.linkedin.com/in/ignace-maes-491b95405
-- https://pgm-ignacemaes.github.io/portfolio-website/
-- https://github.com/pgm-ignacemaes
+- https://ignace-maes.netlify.app/
